@@ -1,3 +1,3 @@
 # SV-project
 
-we have made this just for learn system verilog
+I have made this just for learning system verilog
